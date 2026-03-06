@@ -1,0 +1,1444 @@
+{
+  "source": "Demo_catalog.txt",
+  "productUrlUsage": "Use productUrl when ShAI suggests \"search on internet\" so the app can show these links as recommendations.",
+  "products": [
+    {
+      "id": "1",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/khaite-mosi-knitted-silk-top-pink-p01107059",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/khaite-mosi-knitted-silk-top-pink-p01107059",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ab/P01107059.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ab/P01107059_b1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p1_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p1_1.jpg"
+      ],
+      "brand": "KHAITE",
+      "name": "Mosi knitted silk top",
+      "price": "€ 1,480",
+      "description": "Khaite's minimalist designs exude modern sophistication and effortless elegance. The Mosi top is knitted from fine silk yarn and has semi-sheer construction. • Material: 100% silk • Care instructions: dry clean • Made in Italy • Color: pink • Designer color name: Rosewater • Color: pink • Cuff: ribbed • Hem: ribbed • Item: P01107059",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "2",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/valentino-feather-trimmed-high-rise-midi-skirt-pink-p01108210",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/valentino-feather-trimmed-high-rise-midi-skirt-pink-p01108210",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/2310/2612/100/a0/P01108210.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a0/P01108210_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a0/P01108210_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p2_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p2_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p2_2.jpg"
+      ],
+      "brand": "VALENTINO",
+      "name": "Feather-trimmed high-rise midi skirt",
+      "price": "€ 1,800",
+      "description": "Embrace playful elegance with this piece from Valentino. Crafted in Italy, this pink-hued midi skirt features a high-rise silhouette and is trimmed with feathers. • Material: 100% acetate • Care instructions: dry clean • Made in Italy • Color: pink • Designer color name: Malva • Color: pink • Lining: 100% silk • Trim: 100% turkey feathers • Closure: concealed zipped back • Short vent • Includes: garment bag • Contains non-textile parts of animal origin • Item: P01108210",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "3",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/valentino-garavani-devain-vlogo-metallic-leather-shoulder-bag-pink-p01127115",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/valentino-garavani-devain-vlogo-metallic-leather-shoulder-bag-pink-p01127115",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/b8/P01127115.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/b8/P01127115_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/b8/P01127115_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/b8/P01127115_d5.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p3_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p3_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p3_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p3_3.jpg"
+      ],
+      "brand": "VALENTINO GARAVANI",
+      "name": "DeVain Small cloqué jacquard shoulder bag",
+      "price": "€ 1,700",
+      "description": "Add a dazzling touch to any look with the DeVain shoulder bag from Valentino Garavani. Crafted from pink-hued cloqué jacquard, the Small design boasts the house's signature gold-toned VLogo hardware, an adjustable strap, and secure magnetic closure. • Material: fabric • Lining: fabric • Made in Italy • Color: pink • Designer color name: Rosa • Hardware color: gold • Adjustable top handle • Trim: leather • Closure: magnetic fastening • Internal details: card slot, single compartment • Includes: dust bag, box • Item: P01127115",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "4",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-babylone-90-leather-trimmed-sandals-pink-p01135874",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-babylone-90-leather-trimmed-sandals-pink-p01135874",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/a8/P01135874.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a8/P01135874_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a8/P01135874_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p4_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p4_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p4_2.jpg"
+      ],
+      "brand": "SAINT LAURENT",
+      "name": "Babylone 90 leather-trimmed sandals",
+      "price": "€ 1,800",
+      "description": "Since its conception in 1961, Saint Laurent has been coveted for its elegant Parisian aesthetic. Finished with metallic leather trims, the Babylone sandals are defined by their chain-link construction, 90mm stiletto heels, and signature monogram hardware. • Upper: brass, leather • Lining: leather • Sole: leather insole and sole • Color: pink • Toe shape: almond toe • Made in Italy • Includes: dust bag, shoe box • Designer color name: Kitty Pink • Color: pink • Hardware color: gold • Closure: buckle-fastening ankle strap • Item: P01135874",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "5",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-floral-applique-draped-gown-red-p01120832",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-floral-applique-draped-gown-red-p01120832",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/1b/P01120832.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/1b/P01120832_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/1b/P01120832_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p5_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p5_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p5_2.jpg"
+      ],
+      "brand": "MAGDA BUTRYM",
+      "name": "Floral-appliqué draped gown",
+      "price": "€ 1,880",
+      "description": "Floral appliqués have become something of a Magda Butrym signature, appearing artfully on the brand's most coveted designs. This gown boasts tonal flower details on the waist and gentle draping on the sleeveless bodice. • Material: 81% viscose, 15% silk, 4% elastane • Care instructions: dry clean • Made in Poland • Color: red • Designer color name: Red • Color: red • Collar: mockneck • Closure: concealed zipped back • Long vent • Item: P01120832",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "6",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/christopher-esber-blaze-leather-sandals-red-p01136351",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/christopher-esber-blaze-leather-sandals-red-p01136351",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/2c/P01136351.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/2c/P01136351_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/2c/P01136351_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p6_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p6_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p6_2.jpg"
+      ],
+      "brand": "CHRISTOPHER ESBER",
+      "name": "Blaze leather sandals",
+      "price": "€ 750",
+      "description": "Christopher Esber’s designs offer a contemporary take on minimalism perfect for both day and evening looks. The Blaze leather sandals feature slim straps that wrap around the ankle and sleek stiletto heels. • Upper: lamb leather • Lining: leather • Sole: leather insole and sole • Color: red • Toe shape: round open toe • Made in Italy • Includes: dust bag, shoe box • Designer color name: Cherry • Closure: buckle-fastening ankle strap • Item: P01136351",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "7",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/valentino-garavani-vlogo-mini-leather-vanity-bag-red-p01127159",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/valentino-garavani-vlogo-mini-leather-vanity-bag-red-p01127159",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/17/P01127159.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/17/P01127159_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/17/P01127159_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/17/P01127159_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p7_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p7_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p7_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p7_3.jpg"
+      ],
+      "brand": "VALENTINO GARAVANI",
+      "name": "VLogo Mini leather vanity bag",
+      "price": "€ 1,175",
+      "description": "At once iconic and understated, Valentino Garavani's VLogo carries the Maison's legacy of elegance. Crafted from grained red leather, the signature symbol is featured on the front flap of this Mini vanity bag. • Material: calf leather • Lining: leather • Made in Italy • Color: red • Designer color name: Rouge Pur • Color: red • Hardware color: antique gold • Closure: two-way zipped top • Internal details: card slot • Top handle, Detachable, adjustable shoulder strap • Includes: dust bag • Item: P01127159",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "8",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-denim-midi-dress-blue-p01148939",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-denim-midi-dress-blue-p01148939",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ba/P01148939.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ba/P01148939_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ba/P01148939_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p8_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p8_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p8_2.jpg"
+      ],
+      "brand": "MAGDA BUTRYM",
+      "name": "Gathered off-shoulder denim minidress",
+      "price": "€ 915",
+      "description": "Magda Butrym aims to empower with sharp modern style, expertly delivered through artisanal excellence. This minidress is crafted from denim into an off-shoulder silhouette with a heavily gathered skirt. • Material: 100% cotton • Care instructions: machine wash at 30 degrees • Made in Poland • Color: blue • Designer color name: Light Blue • Closure: concealed zipped back • Item: P01148939",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "9",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-brigitte-leather-shoulder-bag-black-p00970827",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-brigitte-leather-shoulder-bag-black-p00970827",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ec/P00970827.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ec/P00970827_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ec/P00970827_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p9_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p9_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p9_2.jpg"
+      ],
+      "brand": "MAGDA BUTRYM",
+      "name": "Brigitte leather shoulder bag",
+      "price": "€ 1,990",
+      "description": "• Material: leather • Lining: leather • Made in Italy • Color: black • Designer color name: Black • Closure: zipped top • Top handles • Internal details: pouch • Includes: dust bag • Item: P00970827",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "10",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-studded-leather-wedge-mules-black-p01141025",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-studded-leather-wedge-mules-black-p01141025",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01141025.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01141025_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01141025_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p10_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p10_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p10_2.jpg"
+      ],
+      "brand": "MAGDA BUTRYM",
+      "name": "115 studded leather wedge mules",
+      "price": "€ 995",
+      "description": "Magda Butrym aims to empower with sharp modern style, expertly delivered through artisanal excellence. Carefully crafted from black leather, these mules are an open-toed pair with gold-toned studs bordering their 115mm wedge heels. • Upper: leather • Lining: leather • Sole: leather insole, leather and rubber sole • Color: black • Toe shape: almond open toe • Made in Italy • Includes: dust bag, shoe box • Designer color name: Black • Hardware color: gold • Item: P01141025",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "11",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-floral-gold-plated-drop-earrings-gold-p01144113",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-floral-gold-plated-drop-earrings-gold-p01144113",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/09/P01144113.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/09/P01144113_d2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/09/P01144113_d5.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p11_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p11_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p11_2.jpg"
+      ],
+      "brand": "MAGDA BUTRYM",
+      "name": "Floral gold-plated drop earrings",
+      "price": "€ 995",
+      "description": "Shaking up the industry with its biting modernity and artisanal excellence, Magda Butrym exists to empower. Featuring the brand's classic rose motif, these drop earrings are made from gold-plated brass. • Material: gold-plated brass • Made in Poland • Includes: box, dust bag • Color: gold • Closure: butterfly-back fastening • Item: P01144113",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "12",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/givenchy-draped-cotton-poplin-shirt-dress-white-p01156290",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/givenchy-draped-cotton-poplin-shirt-dress-white-p01156290",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/1c/P01156290.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/1c/P01156290_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/1c/P01156290_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p12_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p12_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p12_2.jpg"
+      ],
+      "brand": "GIVENCHY",
+      "name": "Draped cotton poplin shirt dress",
+      "price": "€ 2,800",
+      "description": "Givenchy's sophisticated silhouettes make a lasting impression. Boasting a shirt-inspired design, this dress is made from crisp cotton poplin with voluminous sleeves and a draped skirt. • Material: 100% cotton • Care instructions: dry clean • Made in Italy • Color: white • Designer color name: White • Closure: concealed buttoned front • Pockets: side slit pockets • Item: P01156290",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "13",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/givenchy-tape-85-leather-slingback-pumps-black-p01128261",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/givenchy-tape-85-leather-slingback-pumps-black-p01128261",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/a5/P01128261.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a5/P01128261_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a5/P01128261_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p13_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p13_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p13_2.jpg"
+      ],
+      "brand": "GIVENCHY",
+      "name": "Tape 85 leather slingback pumps",
+      "price": "€ 890",
+      "description": "The Tape slingback pumps from Givenchy are crafted in Italy from black leather with square toes and elasticated straps at the back. The statement 85mm heels feature a polished brass finish with the brand's logo on display. • Upper: calf leather • Lining: calf leather • Sole: leather insole and sole • Color: black • Toe shape: square toe • Made in Italy • Includes: shoe box • Designer color name: Black • Item`s Brand, Product Name and Price color: black • Item: P01128261",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "14",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-floral-cotton-minidress-white-p01123006",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-floral-cotton-minidress-white-p01123006",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/22/P01123006.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/22/P01123006_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/22/P01123006_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/22/P01123006_d1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p14_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p14_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p14_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p14_3.jpg"
+      ],
+      "brand": "DOLCE&GABBANA",
+      "name": "Floral cotton minidress",
+      "price": "€ 1,750",
+      "description": "Sicilian culture is at the heart of Dolce&Gabbana's aesthetic, which attributes most of its bold styles to its Italian heritage. Tailored to an A-line silhouette, this cotton minidress boasts a charming floral print and a structured bodice. • Material: 100% cotton • Care instructions: machine wash at 30 degrees • Made in Italy • Color: white • Designer color name: Mazz.Fiori F.Bianco • Lining: 97% cotton, 3% elastane • Closure: concealed zipped back • Underwired cups • Boning • Item: P01123006",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "15",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-mun-dg-leather-slingback-pumps-pink-p00991483",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-mun-dg-leather-slingback-pumps-pink-p00991483",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/24/P00991483.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/24/P00991483_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/24/P00991483_d2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/24/P00991483_d4.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p15_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p15_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p15_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p15_3.jpg"
+      ],
+      "brand": "DOLCE&GABBANA",
+      "name": "Mun DG leather slingback pumps",
+      "price": "€ 695 €",
+      "description": "The Mun slingback pumps from Dolce&Gabbana are made from polished leather in a classic silhouette with pointed toes. Crafted in Italy, they feature DG logo hardware detailing at the buckles. • Upper: leather • Lining: leather • Sole: leather insole and sole • Color: pink • Toe shape: pointed toe • Made in Italy • Includes: shoe box, dust bag • Designer color name: Rosa • Closure: buckle fastening • Hardware color: gold • Item: P00991483",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "16",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-dg-clip-on-earrings-gold-p01064538",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-dg-clip-on-earrings-gold-p01064538",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ca/P01064538.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ca/P01064538_d2.jpg",
+        "https://www.mytheresa.com/media/2310/2612/100/ca/P01064538_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p16_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p16_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p16_2.jpg"
+      ],
+      "brand": "DOLCE&GABBANA",
+      "name": "DG clip-on earrings",
+      "price": "€ 595",
+      "description": "Sicilian culture is at the heart of Dolce&Gabbana's aesthetic, which attributes most of its bold styles to its Italian heritage. These clip-on earrings showcase the DG motif in gold-tone hardware. • Material: brass, glass • Made in Italy • Color: gold, purple • Color: gold • Closure: clip-on • Includes: box • Item: P01064538",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "17",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-my-sicily-leather-tote-bag-burgundy-p01129314",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-my-sicily-leather-tote-bag-burgundy-p01129314",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/7c/P01129314.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/7c/P01129314_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/7c/P01129314_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/7c/P01129314_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p17_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p17_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p17_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p17_3.jpg"
+      ],
+      "brand": "DOLCE&GABBANA",
+      "name": "My Sicily leather tote bag",
+      "price": "€ 1,850",
+      "description": "Sicilian culture is on display in Dolce&Gabbana's aesthetic, with bold styles inspired by the brand's Italian heritage. The My Sicily tote bag is crafted from burgundy-hued leather and boasts gold-toned hardware and a detachable shoulder strap. • Material: calf leather • Lining: leather • Made in Italy • Color: burgundy • Designer color name: Bordeaux • Color: burgundy • Hardware color: gold • Top handle, Detachable, adjustable shoulder strap • Internal details: zipped pocket, single compartment • Detachable charm • Closure: push-lock fastening • Includes: dust bag • Item: P01129314",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "18",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/zimmermann-rebellion-linen-and-silk-bustier-dress-white-p01129768",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/zimmermann-rebellion-linen-and-silk-bustier-dress-white-p01129768",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/45/P01129768.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/45/P01129768_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/45/P01129768_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/45/P01129768_d1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p18_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p18_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p18_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p18_3.jpg"
+      ],
+      "brand": "ZIMMERMANN",
+      "name": "Rebellion linen and silk bustier dress",
+      "price": "€ 2,700",
+      "description": "Elegant silhouettes and charming patterns define Zimmermann's designs, including the Rebellion dress. Made from linen and silk with delicate embroideries, this style features supportive boning, a structured skirt, and a detachable collar. • Material: 55% linen, 45% silk • Care instructions: dry clean • Made in China • Color: white • Designer color name: Cream • Color: beige • Lining: 100% silk • Details: 100% polyester • Detachable collar • Boning • Underwired cups • Closure: concealed zipped back • Adjustable shoulder straps • Item: P01129768",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "19",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/amina-muaddi-camelia-embellished-leather-clutch-yellow-p01027697",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/amina-muaddi-camelia-embellished-leather-clutch-yellow-p01027697",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01027697.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01027697_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01027697_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p19_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p19_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p19_2.jpg"
+      ],
+      "brand": "AMINA MUADDI",
+      "name": "Camelia embellished leather clutch",
+      "price": "€ 1,360€",
+      "description": "• Material: leather • Lining: leather • Made in Italy • Color: yellow • Designer color name: Butter • Color: yellow • Closure: magnetic fastening • Internal details: card slot • Chain shoulder strap • Color of chain strap: silver • Item: P01027697",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "20",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/amina-muaddi-lupita-70-leather-mules-beige-p01053042",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/amina-muaddi-lupita-70-leather-mules-beige-p01053042",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/82/P01053042.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/82/P01053042_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/82/P01053042_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p20_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p20_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p20_2.jpg"
+      ],
+      "brand": "AMINA MUADDI",
+      "name": "Lupita 70 leather mules",
+      "price": "€ 590€",
+      "description": "• Upper: leather • Lining: leather • Sole: leather insole and sole • Color: beige • Toe shape: square open toe • Made in Italy • Includes: shoe box, dust bags • Designer color name: Butter • Color : yellow • Item: P01053042",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "21",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-belted-trench-coat-black-p01075970",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-belted-trench-coat-black-p01075970",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01075970.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01075970_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ed/P01075970_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p21_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p21_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p21_2.jpg"
+      ],
+      "brand": "JACQUEMUS",
+      "name": "Belted trench coat",
+      "price": "€ 1,490 €",
+      "description": "Jacquemus brings a characterful vision of French fashion to the design of every new collection. This medium-length trench coat features a sculptural silhouette with voluminous sleeves and a detachable belt at the waist. • Material: 62% polyester, 33% viscose, 5% elastane • Care instructions: dry clean • Made in Bulgaria • Color: black • Designer color name: Black • Color: black • Hardware color: silver • Material II: 64% polyester, 32% viscose, 4% elastane • Lining: 52% viscose, 48% cotton • Notched lapel • Closure: buttoned front • Belt loops • Detachable belt • Cuff: strap, buckle and loops • Pockets: welt pockets • Fully lined • Item: P01075970",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "22",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-high-rise-capri-pants-black-p01076075",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-high-rise-capri-pants-black-p01076075",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/01/P01076075.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/01/P01076075_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/01/P01076075_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p22_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p22_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p22_2.jpg"
+      ],
+      "brand": "JACQUEMUS",
+      "name": "High-rise capri pants",
+      "price": "€ 550€",
+      "description": "Jacquemus brings a characterful vision of French fashion to the design of every new collection. These capri pants are cut below the knee and have a high-waisted silhouette, for a slim and chic look. • Material: 93% polyamide, 7% elastane • Care instructions: dry clean • Made in Bulgaria • Color: black • Designer color name: Black • Color: black • Lining: 97% cotton, 3% elastane • Closure: concealed zipper, zipped side, hook fastening • Hem: elasticated • Item: P01076075",
+      "sizes": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "id": "23",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-cubisto-100-leather-slingback-pumps-burgundy-p01086768",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-cubisto-100-leather-slingback-pumps-burgundy-p01086768",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/06/P01086768.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/06/P01086768_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/06/P01086768_d4.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p23_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p23_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p23_2.jpg"
+      ],
+      "brand": "Jacquemus",
+      "name": "Cubisto 100 leather slingback pumps",
+      "price": "€ 750 €",
+      "description": "Jacquemus brings a characterful vision of French fashion to the design of every new collection. The Cubisto 100 slingback pumps are made with leather and feature a delicate bow detail on the uppers. • Upper: leather • Lining: leather • Sole: leather insole, leather and rubber sole • Color: burgundy • Toe shape: pointed toe • Made in Italy • Includes: dust bag, shoe box • Designer color name: Burgundy • Item`s Brand, Product Name and Price color: burgundy • Hardware color: silver • Closure: buckle-fastening ankle strap • Item: P01086768",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "24",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-berlingot-small-metallic-leather-clutch-silver-p01139820",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-berlingot-small-metallic-leather-clutch-silver-p01139820",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/f2/P01139820.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/f2/P01139820_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/f2/P01139820_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/f2/P01139820_d5.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p24_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p24_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p24_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p24_3.jpg"
+      ],
+      "brand": "Jacquemus",
+      "name": "Berlingot metallic leather clutch",
+      "price": "€ 1,090",
+      "description": "Jacquemus brings a characterful vision of French fashion to the design of every new collection. Made in Italy from metallic snake-effect leather, the Berlingot clutch features a detachable shoulder strap and magnetic fastening. • Material: leather • Lining: fabric • Made in Italy • Color: silver • Designer color name: Silver • Closure: magnetic fastening • Internal details: card slot • Detachable shoulder strap • Includes: dust bag • Item: P0113982",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "25",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/gucci-gg-jacquard-straight-jeans-pink-p01150091",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/gucci-gg-jacquard-straight-jeans-pink-p01150091",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/ea/P01150091.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ea/P01150091_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ea/P01150091_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/ea/P01150091_d1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p25_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p25_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p25_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p25_3.jpg"
+      ],
+      "brand": "Gucci",
+      "name": "GG jacquard straight jeans",
+      "price": "€ 1,200",
+      "description": "GG jacquard is a quintessentially Gucci fabric that's been part of the house's codes since the early '70s. Part of La Famiglia collection, these jeans are made from cotton denim with the signature pattern and come in a straight silhouette with five pockets. • Material: 100% cotton • Care instructions: dry clean • Made in Italy • Color: pink • Designer color name: Pink Rosebud • Pocket lining: 100% cotton • Details: 100% calf leather • Contains non-textile parts of animal origin • Belt loops • Pockets: five pockets • Item: P01150091",
+      "sizes": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "id": "26",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/gucci-gg-jacquard-cardigan-pink-p01150118",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/gucci-gg-jacquard-cardigan-pink-p01150118",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/55/P01150118.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/55/P01150118_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/55/P01150118_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/55/P01150118_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p26_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p26_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p26_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p26_3.jpg"
+      ],
+      "brand": "Gucci",
+      "name": "GG jacquard cardigan",
+      "price": "€ 1,400",
+      "description": "Part of Gucci's La Famiglia collection, this cardigan is presented in a fine knit. The design features an all-over GG jacquard motif and ribbed details at the neck, hem, and cuffs. • Material: 85% viscose, 15% polyester • Care instructions: dry clean • Made in Italy • Color: pink • Designer color name: Sparkling Classic Pl • Trim: 73% viscose, 14% polyester, 12% polyamide, 1% elastane • Contains non-textile parts of animal origin • Closure: buttoned front • Hem: ribbed • Cuff: ribbed • Collar: crewneck • Item: P01150118",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "27",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/gucci-vittoria-horsebit-leather-pumps-black-p01154762",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/gucci-vittoria-horsebit-leather-pumps-black-p01154762",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/10/P01154762.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/10/P01154762_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/10/P01154762_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p27_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p27_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p27_2.jpg"
+      ],
+      "brand": "Gucci",
+      "name": "Vittoria Horsebit leather pumps",
+      "price": "€ 950",
+      "description": "Finished with collapsible backs, the Vittoria pumps are Italian-crafted from leather and topped with signature hardware. One of Gucci's most powerful emblems, the Horsebit points to the house's storied fascination with equestrian design codes. • Upper: leather • Lining: leather • Sole: leather insole and sole • Color: black • Toe shape: pointed toe • Made in Italy • Includes: shoe box, dust bag • Designer color name: Nero • Item: P01154762",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "28",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/gucci-jackie-slim-small-leather-shoulder-bag-black-p01151161",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/gucci-jackie-slim-small-leather-shoulder-bag-black-p01151161",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/50/P01151161.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/50/P01151161_d2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/50/P01151161_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p28_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p28_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p28_2.jpg"
+      ],
+      "brand": "Gucci",
+      "name": "Jackie Slim Small leather shoulder bag",
+      "price": "€ 1,950",
+      "description": "Gucci redefines luxury and pursues its commitment to excellence and creativity. Italian-crafted from leather, the Jackie Slim Small shoulder bag is defined by its slouchy silhouette, golden piston closure, and time-worn, vintage-inspired effect. • Material: goat leather • Lining: leather • Made in Italy • Color: black • Designer color name: Black/Black • Hardware color: gold • Adjustable top handle, Detachable, adjustable shoulder strap • Internal details: zipped pocket • Closure: push-lock fastening • Item: P01151161",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "29",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/brunello-cucinelli-logo-wide-leg-jeans-blue-p01143620",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/brunello-cucinelli-logo-wide-leg-jeans-blue-p01143620",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/a3/P01143620.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a3/P01143620_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a3/P01143620_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/a3/P01143620_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p29_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p29_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p29_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p29_3.jpg"
+      ],
+      "brand": "Brunello Cucinelli",
+      "name": "Wide-leg jeans",
+      "price": "€ 1,200",
+      "description": "These jeans from Brunello Cucinelli are cut to a classic wide-leg silhouette, complemented by cuffed hems that create a slightly cropped effect. The design is fitted with a leather logo patch at the back. • Material: 100% cotton • Care instructions: machine wash at 30 degrees • Made in Italy • Color: blue • Designer color name: Vintage Denim Blue • Pocket lining: 100% cotton • Details: 100% leather • Contains non-textile parts of animal origin • Closure: zipper fly, button fastening • Pockets: five pockets • Item: P01143620",
+      "sizes": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "id": "30",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-wool-silk-and-cashmere-cardigan-multicoloured-p01130896",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-wool-silk-and-cashmere-cardigan-multicoloured-p01130896",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/e4/P01130896.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/e4/P01130896_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/e4/P01130896_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p30_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p30_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p30_2.jpg"
+      ],
+      "brand": "Magda Butrym",
+      "name": "Wool, silk, and cashmere cardigan",
+      "price": "€ 1,605",
+      "description": "Magda Butrym aims to empower with sharp modern style, expertly delivered through artisanal excellence. Carefully crafted in Italy from wool, silk, and cashmere, this cardigan is a fitted, crewneck style with a delicate floral pattern. • Material: 50% wool, 30% silk, 20% cashmere • Care instructions: hand wash • Made in Italy • Color: multicoloured • Designer color name: Cream • Closure: buttoned front • Item: P01130896",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "31",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-crochet-ballet-flats-white-p01081313",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/magda-butrym-crochet-ballet-flats-white-p01081313",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/41/P01081313.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/41/P01081313_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/41/P01081313_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p31_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p31_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p31_2.jpg"
+      ],
+      "brand": "Magda Butrym",
+      "name": "Crochet ballet flats",
+      "price": "€ 940 €",
+      "description": "All of Magda Butrym's crochet styles are made by hand in Poland by a team of skilled artisans. These ballet flats are no exception, crocheted into a structured silhouette. • Upper: lace • Lining: fabric • Sole: leather insole and sole • Color: white • Toe shape: square toe • Made in Italy • Includes: shoe box • Designer color name: Cream • Color: white • Item: P01081313",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "32",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/acne-studios-bowlina-small-leather-shoulder-bag-white-p01046995",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/acne-studios-bowlina-small-leather-shoulder-bag-white-p01046995",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/70/P01046995.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/70/P01046995_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/70/P01046995_d1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p32_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p32_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p32_2.jpg"
+      ],
+      "brand": "Acne Studios",
+      "name": "Bowlina Small leather shoulder bag",
+      "price": "€ 1,500",
+      "description": "Stockholm-based Acne Studios has a firmly established cult following thanks to its Scandinavian-cool aesthetic. The Bowlina Small leather shoulder bag has a curved silhouette and is embellished with a metallic logo plaque. • Material: calf leather • Lining: fabric • Made in Italy • Color: white • Designer color name: Cream White • Color: white • Hardware color: silver • Internal details: single compartment, zipped pocket • Closure: two-way zipped top • Top handles • Includes: dust bag • Item: P01046995",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "33",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-les-boucles-rond-carre-earrings-gold-p00833837",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/jacquemus-les-boucles-rond-carre-earrings-gold-p00833837",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/23/P00833837.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/23/P00833837_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/23/P00833837_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p33_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p33_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p33_2.jpg"
+      ],
+      "brand": "Jacquemus",
+      "name": "Les boucles rond carré earrings",
+      "price": "€ 250€",
+      "description": "Make a statement with the geometric-shaped Les Boucles rond carré earrings from Jacquemus. Crafted from gold-tone brass, the asymmetric style secures with hinged clasps and will add a unique finish to everyday looks. • Material: brass • Made in Italy • Color: gold • Color: gold • Closure: hinge • For pierced ears • Designer color name: Light Gold • Item: P00833837",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "34",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/nour-hammour-runa-leather-blouson-jacket-brown-p01136170",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/nour-hammour-runa-leather-blouson-jacket-brown-p01136170",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/cd/P01136170.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/cd/P01136170_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/cd/P01136170_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p34_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p34_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p34_2.jpg"
+      ],
+      "brand": "Nour Hammour",
+      "name": "Runa leather bomber jacket",
+      "price": "€ 1,600",
+      "description": "Nour Hammour's distinctive approach to leatherworking brings a contemporary edge to outerwear favorites. The relaxed Runa bomber jacket showcases a soft leather construction, complete with two spacious flap pockets on the front. • Material: 100% lamb leather • Care instructions: specialist clean • Made in Turkey • Color: brown • Designer color name: Praline Patina • Lining: 63% cupro, 37% viscose • Lining II: 100% silk • Closure: two-way zipped front • Pockets: flap pockets, welt pockets • Cuff: buttoned • Elasticated waistband • Item: P01136170",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "35",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/nour-hammour-ghalia-leather-pencil-skirt-brown-p01136161",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/nour-hammour-ghalia-leather-pencil-skirt-brown-p01136161",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/eb/P01136161.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/eb/P01136161_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/eb/P01136161_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p35_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p35_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p35_2.jpg"
+      ],
+      "brand": "Nour Hammour",
+      "name": "Ghalia leather pencil skirt",
+      "price": "€ 1,030",
+      "description": "Nour Hammour's distinctive approach to leatherworking brings a contemporary edge to each design. Showcasing a flattering midi-length silhouette, the Ghalia pencil skirt is crafted from soft leather and fitted with belt loops for a secure fit. • Material: 100% lamb leather • Care instructions: specialist clean • Made in Turkey • Color: brown • Designer color name: Praline Patina • Closure: zipper fly, button fastening • Pockets: slant pockets, back pockets • Short vent • Item: P01136161",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "36",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-lace-trimmed-ribbed-knit-silk-tank-top-brown-p01128205",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-lace-trimmed-ribbed-knit-silk-tank-top-brown-p01128205",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/f6/P01128205.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/f6/P01128205_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/f6/P01128205_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p36_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p36_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p36_2.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Lace-trimmed ribbed-knit silk tank top",
+      "price": "€ 850",
+      "description": "Balancing minimalism with distinctive detailing, this Saint Laurent tank top makes a lasting impression. Made from pure silk, the design features a ribbed-knit finish and is adorned with delicate lace along the V-neckline. • Material: 100% silk • Care instructions: dry clean • Made in Italy • Color: brown • Designer color name: Caramel • Color: brown • Details: 79% polyamide, 21% viscose • Trim: 94% silk, 6% elastane • Material II: 100% silk • Adjustable shoulder straps • Item: P01128205",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "37",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-sac-de-jour-mini-suede-top-handle-bag-brown-p01133842",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-sac-de-jour-mini-suede-top-handle-bag-brown-p01133842",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/8a/P01133842.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/8a/P01133842_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/8a/P01133842_d1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p37_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p37_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p37_2.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Sac De Jour Mini suede top-handle bag",
+      "price": "€ 2,500",
+      "description": "Since its conception in 1961, Saint Laurent has been coveted for its elegant Parisian aesthetic. Made in Italy from suede, the Sac De Jour top-handle bag arrives in Mini proportions and features gold-toned hardware and a detachable adjustable strap. • Material: calf leather (suede) • Lining: leather • Made in Italy • Color: brown • Designer color name: Caramel Cognac • Item`s Brand, Product Name and Price color: brown • Hardware color: gold • Top handles, Detachable, adjustable shoulder strap • Internal details: two compartments, zipped and slot pockets • Detachable charm • Protective feet • Includes: dust bag • Item: P01133842",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "38",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-lee-75-patent-leather-slingback-pumps-brown-p00998190",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-lee-75-patent-leather-slingback-pumps-brown-p00998190",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/dc/P00998190.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/dc/P00998190_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/dc/P00998190_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p38_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p38_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p38_2.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Lee 75 patent leather slingback pumps",
+      "price": "€ 1,100",
+      "description": "• Upper: leather • Lining: leather • Sole: leather insole and sole • Color: brown • Toe shape: pointed toe • Made in Italy • Includes: shoe box • Designer color name: Kaki • Closure: buckle fastening • Hardware color: gold • Item: P00998190",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "39",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-le-5-a-7-supple-large-leather-shoulder-bag-brown-p01002238",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-le-5-a-7-supple-large-leather-shoulder-bag-brown-p01002238",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/3d/P01002238.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/3d/P01002238_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/3d/P01002238_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/3d/P01002238_d3.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p39_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p39_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p39_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p39_3.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Le 5 à 7 Supple Large leather shoulder bag",
+      "price": "€ 2,600",
+      "description": "• Material: calf leather • Lining: suede • Made in Italy • Color: brown • Designer color name: Fox • Color: brown • Adjustable shoulder strap • Internal details: two compartments, zipped pocket • Closure: hook fastening • Hardware color: antique gold • Item: P01002238",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "40",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-oversize-earrings-gold-p00966287",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/saint-laurent-oversize-earrings-gold-p00966287",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/e7/P00966287.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/e7/P00966287_d3.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/e7/P00966287_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p40_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p40_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p40_2.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Oversize earrings",
+      "price": "€ 800",
+      "description": "• Material: brass • Made in Italy • Color: gold • Item: P00966287",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "41",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-floral-cotton-top-multicoloured-p01122994",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-floral-cotton-top-multicoloured-p01122994",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/65/P01122994.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/65/P01122994_b2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/65/P01122994_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p41_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p41_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p41_2.jpg"
+      ],
+      "brand": "Dolce&Gabbana",
+      "name": "Floral cotton top",
+      "price": "€ 895",
+      "description": "Sicilian culture is on display in Dolce&Gabbana's aesthetic, with bold styles inspired by the brand's Italian heritage. This top is crafted from cotton with an elegant all-over floral print. • Material: 99% cotton, 1% elastane • Care instructions: dry clean • Made in Italy • Color: multicoloured • Designer color name: Mazz.Fiori F.Celeste • Lining: 91% silk, 9% cotton • Closure: concealed zipped back • Item: P01122994",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "42",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-floral-cotton-poplin-shorts-multicoloured-p01122842",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-floral-cotton-poplin-shorts-multicoloured-p01122842",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/e4/P01122842.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/e4/P01122842_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/e4/P01122842_b2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p42_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p42_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p42_2.jpg"
+      ],
+      "brand": "Dolce&Gabbana",
+      "name": "Floral cotton poplin shorts",
+      "price": "€ 695",
+      "description": "icilian culture is on display in Dolce&Gabbana's aesthetic, with bold styles inspired by the brand's Italian heritage. These cotton poplin shorts are detailed with a colorful floral print and feature elasticated trims for ultimate comfort. • Material: 100% cotton • Care instructions: dry clean • Made in Italy • Color: blue • Designer color name: Mazz.Fiori F.Celeste • Elasticated drawstring waist • Elasticated ankle cuffs • Pockets: side slit pockets • Lining: 97% cotton, 3% elastane • Item: P01122842",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "43",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-leather-sandals-gold-p01075302",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-leather-sandals-gold-p01075302",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/31/P01075302.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/31/P01075302_d1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/31/P01075302_d2.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/31/P01075302_d4.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p43_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p43_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p43_2.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p43_3.jpg"
+      ],
+      "brand": "DOLCE&GABBANA",
+      "name": "Metallic leather slides",
+      "price": "€ 650€",
+      "description": "Nobody does opulent romance quite like Dolce&Gabbana. Crafted from metallic leather, these stylish slides feature an almond-shaped open toe and a bow accent on the upper, effortlessly balancing casual ease with elevated sophistication. • Upper: lamb leather • Lining: leather • Sole: leather insole and sole • Color: gold • Toe shape: almond open toe • Made in Italy • Includes: shoe box • Designer color name: Oro • Color: gold • Item: P01075302",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "44",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/chloe-summer-banana-medium-raffia-shoulder-bag-beige-p01152646",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/chloe-summer-banana-medium-raffia-shoulder-bag-beige-p01152646",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/47/P01152646.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/47/P01152646_b1.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/47/P01152646_d1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p44_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p44_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p44_2.jpg"
+      ],
+      "brand": "CHLOÉ",
+      "name": "Summer Banana Medium raffia shoulder bag",
+      "price": "€ 1,750",
+      "description": "Chloé's designs are characterized by romance with a Parisian flair. The Summer Banana Medium shoulder bag is crafted from raffia and features the brand's logo lettering on the front. • Material: raffia • Lining: unlined • Made in Madagascar • Color: beige • Designer color name: Natural Raffia • Closure: magnetic fastening • Top handle • Item: P01152646",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "45",
+      "productUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-re-edition-dg-embellished-clip-on-earrings-multicoloured-p01129333",
+      "originalProductUrl": "https://www.mytheresa.com/euro/en/women/dolce-gabbana-re-edition-dg-embellished-clip-on-earrings-multicoloured-p01129333",
+      "originalImageUrls": [
+        "https://www.mytheresa.com/media/1094/1238/100/81/P01129333.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/81/P01129333_d3.jpg",
+        "https://www.mytheresa.com/media/1094/1238/100/81/P01129333_d2.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p45_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p45_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p45_2.jpg"
+      ],
+      "brand": "DOLCE&GABBANA",
+      "name": "Re-Edition DG embellished clip-on earrings",
+      "price": "€ 795",
+      "description": "Sicilian culture is on display in Dolce&Gabbana's aesthetic, with bold styles inspired by the brand's Italian heritage. The Re-Edition clip-on drop earrings are a gold-toned pair with shimmering crystal embellishments and the brand's iconic DG logo. • Material: brass, glass • Made in Italy • Closure: clip-on • Color: multicoloured • Includes: box • Item: P01129333",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "46",
+      "productUrl": "https://www.net-a-porter.com/en-bg/shop/product/zimmermann/clothing/mini-dresses/crush-crystal-embellished-paneled-leopard-print-linen-and-silk-blend-mini-dress/1647597355277273",
+      "originalProductUrl": "https://www.net-a-porter.com/en-bg/shop/product/zimmermann/clothing/mini-dresses/crush-crystal-embellished-paneled-leopard-print-linen-and-silk-blend-mini-dress/1647597355277273",
+      "originalImageUrls": [
+        "https://www.net-a-porter.com/variants/images/1647597355277273/ou/w2000_q60.jpg",
+        "https://www.net-a-porter.com/variants/images/1647597355277273/in/w2000_q60.jpg",
+        "https://www.net-a-porter.com/variants/images/1647597355277273/bk/w2000_q60.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p46_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p46_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p46_2.jpg"
+      ],
+      "brand": "ZIMMERMANN",
+      "name": "Crystal-embellished paneled leopard-print mini dress",
+      "price": "€1,995",
+      "description": "Zimmermann's 'Crush' mini dress is printed with a familiar leopard pattern that nods to its debut collection. Made from a blend of linen and silk, this 'Crush' mini dress is detailed with sparkling crystals along the neckline. The fitted bodice has contouring seams, while the paneled skirt is lined with tulle for added volume.",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "47",
+      "productUrl": "https://eur.shein.com/MOTFLEOPARDRHINESTONEDETAILSLEEVELESSDRESS,SPRING-SUMMER-p-52727354-cat-12478.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalProductUrl": "https://eur.shein.com/MOTFLEOPARDRHINESTONEDETAILSLEEVELESSDRESS,SPRING-SUMMER-p-52727354-cat-12478.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalImageUrls": [
+        "https://img.ltwebstatic.com/images3_pi/2025/01/07/d3/1736253715879bf5a298aeb2d4cfffd4d4a9427c07_thumbnail_900x.webp"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p47_0.webp"
+      ],
+      "brand": "MOTF",
+      "name": "LEOPARD RHINESTONE DETAIL SLEEVELESS DRESS",
+      "price": "50.99€",
+      "description": "Sizes available:",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "48",
+      "productUrl": "https://eur.shein.com/AnewstaNewElegantOffShoulderDesignWaistCinchedGreyMidiDress,BusinessOutfit-p-120311853-cat-12478.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalProductUrl": "https://eur.shein.com/AnewstaNewElegantOffShoulderDesignWaistCinchedGreyMidiDress,BusinessOutfit-p-120311853-cat-12478.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalImageUrls": [
+        "https://img.ltwebstatic.com/v4/j/pi/2025/07/08/a8/175198325839cbb570fd0294666171b2bb3e266c49_thumbnail_900x.webp"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p48_0.webp"
+      ],
+      "brand": "Anewsta",
+      "name": "",
+      "price": "65.49€",
+      "description": "Sizes available:",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "49",
+      "productUrl": "https://www.self-portrait.com/products/aw25-grey-wool-tailored-midi-dress?srsltid=AfmBOooA8t6cTB0N2I7Iex4RKC4hMaYRYxIHcr0ys_ypkl2txh2KZolH",
+      "originalProductUrl": "https://www.self-portrait.com/products/aw25-grey-wool-tailored-midi-dress?srsltid=AfmBOooA8t6cTB0N2I7Iex4RKC4hMaYRYxIHcr0ys_ypkl2txh2KZolH",
+      "originalImageUrls": [
+        "https://www.self-portrait.com/cdn/shop/files/AW25-090M-GR_1.jpg?v=1750341717&width=3780",
+        "https://www.self-portrait.com/cdn/shop/files/AW25-090M-GR_3.jpg?v=1750341717&width=2400",
+        "https://www.self-portrait.com/cdn/shop/files/AW25-090M-GR_4.jpg?v=1750341717&width=1400"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p49_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p49_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p49_2.jpg"
+      ],
+      "brand": "Self-Portrait",
+      "name": "GREY WOOL TAILORED MIDI DRESS",
+      "price": "£495",
+      "description": "A Bardot neckline gives sensual allure to this tailored midi dress, cut from classic grey wool. Its belted peplum waist and sparkling buttons bring extra glamour – add heels for drinks after hours. • Fitted style • This style has minimal stretch • Button closure down front • Zip closure at waist • Removable belt • Model is 5ft10/178cm and wears a size UK 6",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "50",
+      "productUrl": "https://editorialist.com/p/jacquemus-the-salon-clutch-bag/?color=black-13",
+      "originalProductUrl": "https://editorialist.com/p/jacquemus-the-salon-clutch-bag/?color=black-13",
+      "originalImageUrls": [
+        "https://editorialist.com/thumbnails/600/2025/3/034/939/069/34939069~black_1741901531935_0.webp",
+        "https://editorialist.com/thumbnails/600/2025/3/034/939/069/34939069~black_1741901531935_3.webp",
+        "https://editorialist.com/thumbnails/600/2025/3/034/939/069/34939069~black_1741901531935_1.webp"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p50_0.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p50_1.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p50_2.webp"
+      ],
+      "brand": "",
+      "name": "",
+      "price": "13\r\n$",
+      "description": "The Jacquemus Le Salon Clutch features a clasp fastening and a detachable shoulder strap. This handheld bag includes an internal patch pocket. Strap detachable shoulder strap Closure clasp fastening Pocket internal patch pocket",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "51",
+      "productUrl": "https://eur.shein.com/NewArrivalHigh-EndSphericalMetalClipBaguetteBag,WomenLargeCapacityShoulderBag,EveningBagWithChainStrap-p-214211713-cat-1764.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalProductUrl": "https://eur.shein.com/NewArrivalHigh-EndSphericalMetalClipBaguetteBag,WomenLargeCapacityShoulderBag,EveningBagWithChainStrap-p-214211713-cat-1764.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalImageUrls": [
+        "https://img.ltwebstatic.com/v4/j/spmp/2025/10/13/b7/1760321910d4f5c81d518f289df8577e3011f4f8d0_thumbnail_900x.webp"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p51_0.webp"
+      ],
+      "brand": "",
+      "name": "",
+      "price": "28.98€",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "52",
+      "productUrl": "https://www.maison-alaia.com/en-bg/product/shoulder-bags/le-teckel-small-bag-in-goatskin-AA1S06029CA212325.html",
+      "originalProductUrl": "https://www.maison-alaia.com/en-bg/product/shoulder-bags/le-teckel-small-bag-in-goatskin-AA1S06029CA212325.html",
+      "originalImageUrls": [
+        "https://www.maison-alaia.com/dw/image/v2/BKHJ_PRD/on/demandware.static/-/Sites-alaia-master/default/dwefb2ed0d/images/all-images/AA1S06029CA212325/zJ854esiS1WtOrWtQvVgww_13e565a9.jpeg?sw=1440&sfrm=png&q=90",
+        "https://www.maison-alaia.com/dw/image/v2/BKHJ_PRD/on/demandware.static/-/Sites-alaia-master/default/dw03bc9099/images/all-images/AA1S06029CA212325/4hC7u8zLR2aGmeJ-_90Zwg_95d4a880.jpeg?sw=1440&sfrm=png&q=90"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p52_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p52_1.jpg"
+      ],
+      "brand": "",
+      "name": "",
+      "price": "€ 1,950.00",
+      "description": "Small shoulder bag with an elongated silhouette Long tubular handles with decorative ties, double zip closure, small removable mirror on the inside pocket Goatskin leather with natural subtle grain and shiny finish adding relief to the bag. Vegetal tanning",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "53",
+      "productUrl": "https://eur.shein.com/Women-s-New-Niche-Design-One-Shoulder-Large-Capacity-Underarm-Bag-Elegant-Long-Red-Baguette-Bag-p-61586172.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur&main_attr=27_112",
+      "originalProductUrl": "https://eur.shein.com/Women-s-New-Niche-Design-One-Shoulder-Large-Capacity-Underarm-Bag-Elegant-Long-Red-Baguette-Bag-p-61586172.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur&main_attr=27_112",
+      "originalImageUrls": [
+        "https://img.ltwebstatic.com/v4/j/spmp/2025/12/04/e7/1764832675c5d4d5057a056226d595cf1623d3ed84_thumbnail_900x.webp"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p53_0.webp"
+      ],
+      "brand": "Friends",
+      "name": "One Shoulder Large Capacity Underarm Bag, Elegant Long Red Baguette Bag",
+      "price": "23.16€",
+      "description": "Size:",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "54",
+      "productUrl": "https://shop.mitchellstores.com/products/1402405-valentino-occasion-dresses",
+      "originalProductUrl": "https://shop.mitchellstores.com/products/1402405-valentino-occasion-dresses",
+      "originalImageUrls": [
+        "https://cdn.mitchellstores.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXdtRUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a126f8443eac40362af3e1410835913fccc185e1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRHpJNE1EQjROREl3TUQ0R093WlVPZ3B6ZEhKcGNGUTZFR0YxZEc4dGIzSnBaVzUwVkRvTWNYVmhiR2wwZVVraUNEYzFKUVk3QmxRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2194f4ba90266e988b82b869a61bc64b50c6873c/uploading-1402405.jpg",
+        "https://cdn.mitchellstores.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNndkRUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1fb833ee655eb09cb6ec03e1171959ad167ac3ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJU2xCSEJqb0dSVlE2QzNKbGMybDZaVWtpRHpJNE1EQjROREl3TUQ0R093WlVPZ3B6ZEhKcGNGUTZFR0YxZEc4dGIzSnBaVzUwVkRvTWNYVmhiR2wwZVVraUNEYzFKUVk3QmxRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--402111a6bfda16301dfe76e843286f5ed8f3c2db/uploading-1402405-1402406-M.JPG",
+        "https://cdn.mitchellstores.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXNtRUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--de8f580eba37ba78275f569bff53ccf3d5276705/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRHpJNE1EQjROREl3TUQ0R093WlVPZ3B6ZEhKcGNGUTZFR0YxZEc4dGIzSnBaVzUwVkRvTWNYVmhiR2wwZVVraUNEYzFKUVk3QmxRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--2194f4ba90266e988b82b869a61bc64b50c6873c/uploading-1402405-1.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p54_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p54_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p54_2.jpg"
+      ],
+      "brand": "VALENTINO",
+      "name": "Crepe Couture embellished midi dress",
+      "price": "€ 4,560",
+      "description": " 65% virgin wool, 35% silk; Lining: 100% silk  Dry clean  Round neckline  Embellished details on front and sleeves  Concealed back zip  Front bow details  Made in Italy",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "55",
+      "productUrl": "https://eur.shein.com/EnchntSpring-SummerRomanticWomensBabyBlueSparkleRhinestonePearlBowknotDecorShortSleevePrincessMaxiDress,SweetElegantForPartyDateHolidayGoingOut-p-191202361-cat-12476.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalProductUrl": "https://eur.shein.com/EnchntSpring-SummerRomanticWomensBabyBlueSparkleRhinestonePearlBowknotDecorShortSleevePrincessMaxiDress,SweetElegantForPartyDateHolidayGoingOut-p-191202361-cat-12476.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalImageUrls": [],
+      "imageUrls": [],
+      "brand": "Friends",
+      "name": "Sparkle Rhinestone & Pearl Bowknot dress",
+      "price": "35.62€",
+      "description": "",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "56",
+      "productUrl": "https://eu.self-portrait.com/products/ss26-lightweight-bow-embellished-jeans?country=BG&",
+      "originalProductUrl": "https://eu.self-portrait.com/products/ss26-lightweight-bow-embellished-jeans?country=BG&",
+      "originalImageUrls": [
+        "https://eu.self-portrait.com/cdn/shop/files/SS26-825P-BL_1.jpg?v=1770828690&width=2880",
+        "https://eu.self-portrait.com/cdn/shop/files/SS26-825P-BL_3.jpg?v=1770828690&amp",
+        "https://eu.self-portrait.com/cdn/shop/files/SS26-825P-BL_7.jpg?v=1770828692&width=2880"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p56_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p56_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p56_2.jpg"
+      ],
+      "brand": "SELF-POTRAIT",
+      "name": "LIGHTWEIGHT BOW EMBELLISHED JEANS",
+      "price": "€450",
+      "description": "A house signature takes new form in these lightweight jeans, printed with rhinestone-embellished bows and cut with a flattering straight leg. Pair its high-waist fit with a crop top for date night. • True to size • This style has minimal stretch • Fly zip closure • High waist fit • Functional pockets • Model is 5ft10/178cm and wears a size 26",
+      "sizes": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "id": "57",
+      "productUrl": "https://eur.shein.com/MOTFSTUDIOBOWPRINTWIDELEGJEANS,VALENTINESDAY,SPRING-SUMMER-p-50277609-cat-1934.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalProductUrl": "https://eur.shein.com/MOTFSTUDIOBOWPRINTWIDELEGJEANS,VALENTINESDAY,SPRING-SUMMER-p-50277609-cat-1934.html?share_from=null&url_from=GM74671701249&cdn_rsite=cf&ref=www&rep=dir&ret=eur",
+      "originalImageUrls": [],
+      "imageUrls": [],
+      "brand": "MOTF STUDIO",
+      "name": "BOW PRINT WIDE LEG JEANS",
+      "price": "€24.69",
+      "description": "",
+      "sizes": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30"
+      ]
+    },
+    {
+      "id": "58",
+      "productUrl": "https://www.net-a-porter.com/en-bh/shop/product/saint-laurent/shoes/high-heel/amalia-appliqued-satin-slingback-sandals/46376663162967439",
+      "originalProductUrl": "https://www.net-a-porter.com/en-bh/shop/product/saint-laurent/shoes/high-heel/amalia-appliqued-satin-slingback-sandals/46376663162967439",
+      "originalImageUrls": [
+        "https://www.net-a-porter.com/variants/images/46376663162967439/in/w2000_q60.jpg",
+        "https://www.net-a-porter.com/variants/images/46376663162967439/fr/w2000_q60.jpg",
+        "https://www.net-a-porter.com/variants/images/46376663162967439/cu/w2000_q60.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p58_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p58_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p58_2.jpg"
+      ],
+      "brand": "SAINT LAURENT",
+      "name": "",
+      "price": "$2,850",
+      "description": "It's always worth gifting yourself flowers that won't wilt. SAINT LAURENT's slingback pumps are appliquéd with square rosettes on each pointed toe. They're made from lustrous satin and have 110mm stiletto heels.",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    }
+  ]
+}
