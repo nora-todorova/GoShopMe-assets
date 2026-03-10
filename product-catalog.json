@@ -1,5 +1,5 @@
 {
-  "source": "Demo_catalog.txt",
+  "source": "Demo_catalog.txt + Demo catalog part2.txt",
   "productUrlUsage": "Use productUrl when ShAI suggests \"search on internet\" so the app can show these links as recommendations.",
   "products": [
     {
@@ -1440,24 +1440,1138 @@
         "EU 41"
       ]
     },
-    {"id":"demo-silk-midi-dress","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/silk%20midi%20dress.jpg"],"brand":"Reformation","name":"Silk Midi Dress","price":"$248","description":"","sizes":["XS","S","M","L","XL"]},
-    {"id":"demo-cashmere-sweater","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/cashmere%20sweater.jpg"],"brand":"Brunello Cucinelli","name":"Cashmere Sweater","price":"$1,850","description":"","sizes":["XS","S","M","L","XL"]},
-    {"id":"demo-leather-ankle-boots","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/leather%20ankle%20boots.jpg"],"brand":"Totême","name":"Leather Ankle Boots","price":"$640","description":"","sizes":["EU 36","EU 37","EU 38","EU 39","EU 40","EU 41"]},
-    {"id":"demo-gold-chain-necklace","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/gold%20necklace.jpg"],"brand":"Cartier","name":"Gold Chain Necklace","price":"$2,100","description":"","sizes":["One size"]},
-    {"id":"demo-le-smoking-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20Blazer.jpg"],"brand":"Saint Laurent","name":"Le Smoking Blazer","price":"$1,890","description":"","sizes":["XS","S","M","L","XL"]},
-    {"id":"demo-le-5-a-7-tote","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20bag.jpg"],"brand":"Saint Laurent","name":"Le 5 À 7 Tote","price":"$1,490","description":"","sizes":["One size"]},
-    {"id":"demo-vintage-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/mugler%20blazer.jpg"],"brand":"Mugler","name":"Vintage Blazer","price":"$850","description":"","sizes":["XS","S","M","L","XL"]},
-    {"id":"demo-editorial-dress","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/bottega%20venetta%20dress.jpg"],"brand":"Bottega Veneta","name":"Editorial Midi Dress","price":"$2,400","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
-    {"id":"demo-tribute-sandals","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20sandals.jpg"],"brand":"Saint Laurent","name":"Tribute Sandals","price":"$695","description":"","sizes":["EU 36","EU 37","EU 38","EU 39","EU 40","EU 41"]},
-    {"id":"demo-chanel-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/chanel%20blazer.jpg"],"brand":"Chanel","name":"Paris FW Blazer","price":"$4,200","description":"","sizes":["XS","S","M","L","XL"]},
-    {"id":"demo-air-max-90","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/89a9fe6304-6fe070425843fa2ba49b.png"],"brand":"Nike","name":"Air Max 90 Essential","price":"$120","description":"","sizes":["EU 36","EU 37","EU 38","EU 39","EU 40","EU 41"]},
-    {"id":"demo-leather-crossbody","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/cd629eaf60-b040609181ec837c6da6.png"],"brand":"Coach","name":"Leather Crossbody Bag","price":"$295","description":"","sizes":["One size"]},
-    {"id":"demo-apple-watch","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/baa5c8ec71-a22d1ba23caf17941544.png"],"brand":"Apple","name":"Apple Watch Series 9","price":"$399","description":"","sizes":["One size"]},
-    {"id":"demo-silver-necklace","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/f261f1931d-8483dedf427a6a44d753.png"],"brand":"Tiffany & Co.","name":"Silver Chain Necklace","price":"$175","description":"","sizes":["One size"]},
-    {"id":"demo-floral-midi","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/ed54ed626a-c0cdcdbb57dc6381c4fd.png"],"brand":"Reformation","name":"Floral Midi Dress","price":"$248","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
-    {"id":"demo-silk-slip","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/1d822aec75-b3cb13c31948045b34c1.png"],"brand":"Reformation","name":"Silk Slip Dress","price":"$248","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
-    {"id":"demo-power-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Power%20blazer.jpg"],"brand":"Theory","name":"Theory Power Blazer","price":"$450","description":"","sizes":["XS","S","M","L","XL"]},
-    {"id":"demo-reformation-midi","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/reformation%20midi%20dress.jpg"],"brand":"Reformation","name":"Reformation Midi Dress","price":"$248","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
-    {"id":"demo-chain-necklace","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/chain%20necklace.jpg"],"brand":"Mejuri","name":"Mejuri Chain Necklace","price":"$120","description":"","sizes":["One size"]}
+    {
+      "id": "59",
+      "productUrl": "https://moeva.com/products/grasse-gold-chain-one-shoulder-mid-coverage-textured-blue-bikini-set",
+      "originalProductUrl": "https://moeva.com/products/grasse-gold-chain-one-shoulder-mid-coverage-textured-blue-bikini-set",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/MVA_P1_59_1962_5d46921a-1876-4063-89a5-661d6a09827f.jpg?v=1768991153&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_P1_59_1973_6dfd54a5-2f80-4a6a-823d-eadf572634b6.jpg?v=1768991153&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p59_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p59_1.jpg"
+      ],
+      "brand": "Moeva",
+      "name": "Grasse Gold Chain One-Shoulder Blue Bikini Set",
+      "price": "",
+      "description": "Product Details One-Shoulder Bikini Top With Front Cut-Out, Gold Chain Tie-Back Closures Satin Italian Fabric Special Lycra Xtralife Certificate Embellishment At Shoulder Gold Clasps Adjustable Shoulder Strap Sculpting Textured Stretch Italian Fabric 35%Recycle I Pl 55% I Pl 10%El",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "60",
+      "productUrl": "https://moeva.com/products/lourmarin-blue-white-underwired-gold-button-detail-swimsuit",
+      "originalProductUrl": "https://moeva.com/products/lourmarin-blue-white-underwired-gold-button-detail-swimsuit",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/MVA_P1_69_2222.jpg?v=1768992506&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_P1_69_2230.jpg?v=1768992506&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p60_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p60_1.jpg"
+      ],
+      "brand": "Moeva",
+      "name": "Lourmarin Blue-White Gold Button Swimsuit",
+      "price": "€380,00 EUR",
+      "description": "Adjustable Straps Sculptural vintage looking buttons with enamel Mono wired Lined Ribbed Italian Fabric Removable Cups 35%Recycle I PL 55% I 10%EL",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "61",
+      "productUrl": "https://moeva.com/products/tropezia-scoop-neck-black-knitted-swimsuit",
+      "originalProductUrl": "https://moeva.com/products/tropezia-scoop-neck-black-knitted-swimsuit",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/MVA_P1_04_0233.jpg?v=1768916318&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_P1_04_0292_cf746c8c-15ab-4448-a468-04bcd872defb.jpg?v=1768916334&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_P1_04_0300_f8f19592-6e6f-45e7-af60-1fe4b9cdbd08.jpg?v=1768916334&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p61_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p61_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p61_2.jpg"
+      ],
+      "brand": "Moeva",
+      "name": "Tropezia Scoop Neck Black Knitted Gold Chain Straps Swimsuit",
+      "price": "€450,00 EUR",
+      "description": "Scoop Neckline Gold Sculpted Shoulder Accents with chain straps Contouring Pleated Fabric Soft, sculpted fit with full lining Luxe Italian stretch material Shiny yarn with lurex 79% Viscose I 17% Metal I 4% Polyester",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "62",
+      "productUrl": "https://moeva.com/products/merrin-white-black-v-neck-high-waist-textured-bikini-set",
+      "originalProductUrl": "https://moeva.com/products/merrin-white-black-v-neck-high-waist-textured-bikini-set",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/MVA_P1_36_1361_37db1eb4-5969-4602-b705-d9184ff47b8a.jpg?v=1768983192&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_P1_36_1379_cc1d72a6-214f-4ed8-aebc-1f19df9a8c8b.jpg?v=1768983208&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_P1_36_1384_0bb1ba2d-5ff5-40fd-8335-8b5c0aad9039.jpg?v=1768983208&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p62_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p62_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p62_2.jpg"
+      ],
+      "brand": "Moeva",
+      "name": "Merrin White-Black V Neck High Waist Textured Bikini Set",
+      "price": "€300,00 EUR",
+      "description": "Contrast-trim V Top Gold Button Details High Bottom Duo-Colored Fully Lined Textured Italian Fabric Special Lycra Xtralife Certificate 35%Recycle Pl 55%Pl 10%El",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "63",
+      "productUrl": "https://moeva.com/products/muriel-yellow-swimsuit",
+      "originalProductUrl": "https://moeva.com/products/muriel-yellow-swimsuit",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/Moeva_Lookbook_2023_05_30_0099copy.webp?v=1761140568&width=3000",
+        "https://moeva.com/cdn/shop/files/Moeva_Lookbook_2023_05_30_0104copy.webp?v=1759224409&width=3000",
+        "https://moeva.com/cdn/shop/files/Moeva_Lookbook_2023_05_30_0108copy.webp?v=1759224409&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p63_0.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p63_1.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p63_2.webp"
+      ],
+      "brand": "Moeva",
+      "name": "Muriel Yellow Scoop Neck Textured Swimsuit",
+      "price": "€170,00",
+      "description": "V Shape Detail Adjustable Straps Shell Shaped Gold Buttons Pocket Details Moderate Bottom Coverage Fully Lined Italian Fabric Special Lycra Xtralife Certificate 35%Recycle Pl 55%Pl 10%El",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "64",
+      "productUrl": "https://moeva.com/products/xander-yellow-skirt?pr_prod_strat=pinned&pr_rec_id=7f5783e19&pr_rec_pid=8560199172434&pr_ref_pid=8560195961170&pr_seq=uniform",
+      "originalProductUrl": "https://moeva.com/products/xander-yellow-skirt?pr_prod_strat=pinned&pr_rec_id=7f5783e19&pr_rec_pid=8560199172434&pr_ref_pid=8560195961170&pr_seq=uniform",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/Moeva_Lookbook_2023_05_30_0542copy.webp?v=1760964245&width=3000",
+        "https://moeva.com/cdn/shop/files/Moeva_Lookbook_2023_05_30_0548copy.webp?v=1759229053&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p64_0.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p64_1.webp"
+      ],
+      "brand": "Moeva",
+      "name": "Xander Yellow Sheer Maxi Skirt with Gold Button Details",
+      "price": "€155,00",
+      "description": "Side Slith Ankle length High Rise Elastic Waistband Shell Shaped Gold Buttons Details %100 Polyester",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "65",
+      "productUrl": "https://moeva.com/products/rue-bronze-underwired-bronze-macrame-swimsuit-with-lace-up-back",
+      "originalProductUrl": "https://moeva.com/products/rue-bronze-underwired-bronze-macrame-swimsuit-with-lace-up-back",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/HS_0547.webp?v=1761142220&width=3000",
+        "https://moeva.com/cdn/shop/files/HS_0564.webp?v=1760707084&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p65_0.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p65_1.webp"
+      ],
+      "brand": "Moeva",
+      "name": "Rue Bronze Underwired Crochet Swimsuit with Tie-Back",
+      "price": "€220,00",
+      "description": "Underwired %100 Handmade Macrame Lace-Up Back Clear Glass Drop Details Moderate Bottom Coverage Removable Paddings Adjustable Straps Fully Lined 70% VIS/30% POLYAMIDE",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "66",
+      "productUrl": "https://moeva.com/products/lorelai-red-bikini-set",
+      "originalProductUrl": "https://moeva.com/products/lorelai-red-bikini-set",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/MVA_72_2198.jpg?v=1771918972&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_72_2205_b168c888-b939-4714-91dc-ae9861dc3777.jpg?v=1771918972&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_72_2210_8e918d94-ec75-47fc-9cd3-a97f0403c82f.jpg?v=1771918972&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p66_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p66_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p66_2.jpg"
+      ],
+      "brand": "Moeva",
+      "name": "Lorelai Red Underwired Full Coverage Solid Bikini Sets",
+      "price": "",
+      "description": "Scoop Neck, Mesh Detail, Removable Padding, Adjustable Straps, Fully Lined, Italian Fabric 72% Polyamide 28% Elastane",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "67",
+      "productUrl": "https://moeva.com/products/coraline-red-dress?pr_prod_strat=pinned&pr_rec_id=29e1e93f2&pr_rec_pid=9668110647634&pr_ref_pid=9829340119378&pr_seq=uniform",
+      "originalProductUrl": "https://moeva.com/products/coraline-red-dress?pr_prod_strat=pinned&pr_rec_id=29e1e93f2&pr_rec_pid=9668110647634&pr_ref_pid=9829340119378&pr_seq=uniform",
+      "originalImageUrls": [
+        "https://moeva.com/cdn/shop/files/CORALINE3.webp?v=1760962939&width=3000",
+        "https://moeva.com/cdn/shop/files/MVA_52_1745.jpg?v=1758611947&width=3000"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p67_0.webp",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p67_1.jpg"
+      ],
+      "brand": "Moeva",
+      "name": "Coraline Red One Shoulder Asymetrical Maxi Dress",
+      "price": "",
+      "description": "One Shoulder, Pull On Styling, Buckle Detail On The Side 100% Viscose",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "68",
+      "productUrl": "https://www.farfetch.com/shopping/women/maniere-de-voir-delphine-pinstripe-wrap-tie-blazer-item-33323659.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/maniere-de-voir-delphine-pinstripe-wrap-tie-blazer-item-33323659.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/33/32/36/59/33323659_64812384_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/33/32/36/59/33323659_64812382_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/33/32/36/59/33323659_64812385_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p68_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p68_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p68_2.jpg"
+      ],
+      "brand": "Manière De Voir",
+      "name": "Delphine pinstripe wrap-tie blazer",
+      "price": "$295",
+      "description": "grey pinstripe pattern waist belt front flap pockets Polyester 80%, Rayon 16%, Elastane 4%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "69",
+      "productUrl": "https://www.farfetch.com/shopping/women/cinq-a-sept-khloe-boucle-tweed-blazer-item-18590771.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/cinq-a-sept-khloe-boucle-tweed-blazer-item-18590771.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/18/59/07/71/18590771_40267961_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/18/59/07/71/18590771_40269410_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/18/59/07/71/18590771_40269411_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p69_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p69_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p69_2.jpg"
+      ],
+      "brand": "Cinq A Sept",
+      "name": "Khloe boucle tweed blazer",
+      "price": "$395",
+      "description": "white cotton bouclé construction frayed edge notched lapels chest welt pocket front button fastening three-quarter length sleeves two front flap pockets Cotton 100%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "70",
+      "productUrl": "https://www.farfetch.com/shopping/women/elisabetta-franchi-wrap-belted-blazer-item-30693690.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/elisabetta-franchi-wrap-belted-blazer-item-30693690.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/30/69/36/90/30693690_59931356_2048.jpg",
+        "https://cdn-images.farfetch-contents.com/30/69/36/90/30693690_59931383_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/30/69/36/90/30693690_59931379_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p70_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p70_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p70_2.jpg"
+      ],
+      "brand": "Elisabetta Franchi",
+      "name": "Wrap belted blazer",
+      "price": "$780,",
+      "description": "blue wrap front belted waist gold-tone buckle long sleeves Polyester 98%, Elastane 2%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "71",
+      "productUrl": "https://www.farfetch.com/shopping/women/claudie-pierlot-cropped-trench-jacket-item-30451895.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/claudie-pierlot-cropped-trench-jacket-item-30451895.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/30/45/18/95/30451895_59492974_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/30/45/18/95/30451895_59492994_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/30/45/18/95/30451895_59492989_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p71_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p71_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p71_2.jpg"
+      ],
+      "brand": "Claudie Pierlot",
+      "name": "Cropped trench jacket",
+      "price": "$529",
+      "description": "beige notched lapels shoulder epaulettes buttoned cuff straps front welt pockets fully lined Lining: Polyester 54%, Viscose 46%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "72",
+      "productUrl": "https://www.farfetch.com/shopping/women/jacquemus-la-veste-tibau-blazer-item-22533058.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/jacquemus-la-veste-tibau-blazer-item-22533058.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/22/53/30/58/22533058_52512301_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/22/53/30/58/22533058_52510442_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/22/53/30/58/22533058_52510440_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p72_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p72_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p72_2.jpg"
+      ],
+      "brand": "Jacquemus",
+      "name": "La Veste Tibau blazer",
+      "price": "$1,190",
+      "description": "white crepe texture stretch-design notched lapels double-breasted button fastening shoulder pads long sleeves split cuffs chest welt pocket jetted pocket front flap pocket English rear vents full lining straight hem Outer: Viscose 100% Lining: Acetate 48%, Cotton 46%, Elastane 6%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "73",
+      "productUrl": "https://www.farfetch.com/shopping/women/elisabetta-franchi-tuxedo-details-waistband-trousers-item-32239436.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/elisabetta-franchi-tuxedo-details-waistband-trousers-item-32239436.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/32/23/94/36/32239436_62086168_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/32/23/94/36/32239436_62086185_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/32/23/94/36/32239436_62086153_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p73_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p73_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p73_2.jpg"
+      ],
+      "brand": "Elisabetta Franchi",
+      "name": "Tuxedo-details waistband trousers",
+      "price": "$480,",
+      "description": "starlight crêpe fabric satin waistband side bands front pockets flap appliqué Polyester 95%, Spandex/Elastane 5%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "74",
+      "productUrl": "https://www.farfetch.com/shopping/women/maniere-de-voir-julie-pleated-grey-speckle-tailored-trousers-item-32848237.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/maniere-de-voir-julie-pleated-grey-speckle-tailored-trousers-item-32848237.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/32/84/82/37/32848237_63099166_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/32/84/82/37/32848237_63100561_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/32/84/82/37/32848237_63099905_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p74_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p74_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p74_2.jpg"
+      ],
+      "brand": "Manière De Voir",
+      "name": "Julie pleated grey speckle tailored trousers",
+      "price": "$175",
+      "description": "grey concealed front fastening belt loops Polyester 100%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "75",
+      "productUrl": "https://www.farfetch.com/shopping/women/jacquemus-high-waisted-trousers-item-33109997.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/jacquemus-high-waisted-trousers-item-33109997.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/33/10/99/97/33109997_64825443_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/33/10/99/97/33109997_64795171_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/33/10/99/97/33109997_64768618_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p75_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p75_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p75_2.jpg"
+      ],
+      "brand": "Jacquemus",
+      "name": "High-waisted trousers",
+      "price": "$1,125,",
+      "description": "white rear pockets wide leg high-waisted Cotton 100%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "76",
+      "productUrl": "https://www.farfetch.com/shopping/women/norma-kamali-high-waisted-wide-leg-trousers-item-17716117.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/norma-kamali-high-waisted-wide-leg-trousers-item-17716117.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/17/71/61/17/17716117_37255085_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/17/71/61/17/17716117_37255087_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/17/71/61/17/17716117_37255080_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p76_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p76_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p76_2.jpg"
+      ],
+      "brand": "Norma Kamali",
+      "name": "High-waisted wide-leg trousers",
+      "price": "$214",
+      "description": "high-waisted wide-leg trousers Norma Kamali brings classic tailoring to the forefront with this sleek pair of black trousers which feature a high-waisted silhouette and flared leg Polyester 95%, Spandex/Elastane 5%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "77",
+      "productUrl": "https://www.farfetch.com/shopping/women/nina-ricci-pleated-gabardine-trousers-item-30967575.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/nina-ricci-pleated-gabardine-trousers-item-30967575.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/30/96/75/75/30967575_60182108_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/30/96/75/75/30967575_60181900_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/30/96/75/75/30967575_60182114_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p77_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p77_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p77_2.jpg"
+      ],
+      "brand": "Nina Ricci",
+      "name": "pleated gabardine trousers",
+      "price": "$895,",
+      "description": "• black • virgin wool • gabardine • pleated detailing • high waist • side pockets • Lining: Viscose 100% • Outer: Virgin Wool 100%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "78",
+      "productUrl": "https://www.farfetch.com/shopping/women/victoria-beckham-knitted-midi-pencil-skirt-item-18443010.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/victoria-beckham-knitted-midi-pencil-skirt-item-18443010.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/18/44/30/10/18443010_39532536_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/18/44/30/10/18443010_39667735_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/18/44/30/10/18443010_39669105_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p78_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p78_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p78_2.jpg"
+      ],
+      "brand": "Victoria Beckham",
+      "name": "Knitted midi pencil skirt",
+      "price": "$390",
+      "description": "Victoria Beckham's penchant for designing easy-to-wear everyday pieces is epitomised by this black midi skirt. Designed with a fine-ribbed construction, the high-waisted piece is cut for a sleek, simple pencil silhouette. Made in Italy • Black • straight hem • rear slit • Viscose 65%, Polyamide 33%, Spandex/Elastane 2%",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "79",
+      "productUrl": "https://www.farfetch.com/shopping/women/remain-floral-print-midi-skirt-item-22567540.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/remain-floral-print-midi-skirt-item-22567540.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/22/56/75/40/22567540_53127988_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/22/56/75/40/22567540_53127996_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/22/56/75/40/22567540_53128005_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p79_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p79_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p79_2.jpg"
+      ],
+      "brand": "REMAIN",
+      "name": "Foral-print midi skirt",
+      "price": "$296,",
+      "description": "• sand beige • interlock weave • floral print • dart detailing • two front button-fastening jetted pockets • front slit • mid-length • pencil silhouette • unlined • concealed rear zip fastening Fabric 100%",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "80",
+      "productUrl": "https://www.farfetch.com/shopping/women/n21-floral-print-midi-skirt-item-33285786.aspx",
+      "originalProductUrl": "https://www.farfetch.com/shopping/women/n21-floral-print-midi-skirt-item-33285786.aspx",
+      "originalImageUrls": [
+        "https://cdn-images.farfetch-contents.com/33/28/57/86/33285786_64377665_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/33/28/57/86/33285786_64377661_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/33/28/57/86/33285786_64377668_1000.jpg"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p80_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p80_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p80_2.jpg"
+      ],
+      "brand": "Nº21",
+      "name": "floral-print midi skirt",
+      "price": "$607,",
+      "description": "• white • floral print • rear slit • Viscose 100%",
+      "sizes": [
+        "UK 4",
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12"
+      ]
+    },
+    {
+      "id": "81",
+      "productUrl": "https://www.cultbeauty.com/p/westman-atelier-petite-baby-cheeks-blush-stick-petal/14871456/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/westman-atelier-petite-baby-cheeks-blush-stick-petal/14871456/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/14871456-1935067020623959.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/14871456-2585067020659650.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/14871456-3965067020692566.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p81_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p81_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p81_2.jpg"
+      ],
+      "brand": "Westman Atelier",
+      "name": "Petite Baby Cheeks Blush Stick - Petal",
+      "price": "27.60€",
+      "description": "Adorn your canvas (we're talking eyes, cheeks and lips) with a splash of colour using Westman Atelier's Petite Baby Cheeks Blush Stick (2.5g). Boasting a buttery texture that effortlessly melts into skin, this blush is powered by biomimicry pigment technology to deliver creamy, buildable pigment that layers well over liquid and powder products (without interfering with your make up underneath).",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "82",
+      "productUrl": "https://www.cultbeauty.com/p/make-up-for-ever-artist-colour-pencil-eye-lip-and-brow-pencil-1.4g-various-shades/13425900/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/make-up-for-ever-artist-colour-pencil-eye-lip-and-brow-pencil-1.4g-various-shades/13425900/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13425902-1265306700849219.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13425902-1245306700870156.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13425902-1905306700963423.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p82_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p82_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p82_2.jpg"
+      ],
+      "brand": "MAKE UP FOR EVER",
+      "name": "Artist Colour Pencil : Eye Lip and Brow Pencil",
+      "price": "23.00€",
+      "description": "On a quest to streamline your beauty bag? Discover the Artist Color Pencil (1.4g) from MAKE UP FOR EVER. Boasting multiple powers, this crayon glides effortlessly across lash lines, lip line, brows or anywhere you see fit (faux freckles anyone?). Wherever you choose to dot, line or swipe, its smooth formula delivers a highly pigmented, matte finish that blends with ease. Plus, thanks to a wooden casing, it can be sharpened to the max.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "83",
+      "productUrl": "https://www.cultbeauty.com/p/laura-mercier-tinted-blur-balm-various-shades/17663766/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/laura-mercier-tinted-blur-balm-various-shades/17663766/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17663769-1775298465978999.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17663769-1065298466023405.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17663769-2755298466166658.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p83_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p83_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p83_2.jpg"
+      ],
+      "brand": "Laura Mercier",
+      "name": "Tinted Blur Balm (Various Shades)",
+      "price": "44.85€",
+      "description": "Meet the Laura Mercier Tinted Blur Balm, a next-gen balm-to-powder tint that perfects skin instantly while improving it over time. This lightweight formula delivers a soft-focus, matte finish with sheer-to-medium coverage that blurs, sculpt and smooth in a single step. Infused with peptides, it visibly refines texture, boosts elasticity and reduces the appearance of pores. Enriched with vegetal squalane and camelina sativa seed oil, it soothes and protects the skin’s barrier, leaving a natural, long-lasting matte glow.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "84",
+      "productUrl": "https://www.cultbeauty.com/p/laneige-juice-box-lip-tint-various-shades-4.5g/17763703/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/laneige-juice-box-lip-tint-various-shades-4.5g/17763703/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17651160-1985317578394944.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17651160-5695317578504762.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17651160-6085317578580812.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p84_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p84_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p84_2.jpg"
+      ],
+      "brand": "LANEIGE",
+      "name": "Juice Box Lip Tint 4.5g",
+      "price": "23.00€",
+      "description": "Add a splash of juicy, radiant colour to your lips.This unique lip tint features Water-Oil Remix Technology, transforming from a water-based stain into a nourishing oil that delivers up to 12 hours of vibrant, glossy colour. Infused with the brand’s Juicy Berry Cold Pressed Complex, peptides and ceramides, it hydrates, plumps and protects lips while providing a luminous finish.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "85",
+      "productUrl": "https://www.cultbeauty.com/p/charlotte-tilbury-luxury-palette-pillow-talk/13313677/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/charlotte-tilbury-luxury-palette-pillow-talk/13313677/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13313677-1694896607551432.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13313677-1094896928294290.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/13313677-1384899088370670.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p85_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p85_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p85_2.jpg"
+      ],
+      "brand": "Charlotte Tilbury",
+      "name": "Luxury Palette - Pillow Talk",
+      "price": "55.00€",
+      "description": "Whether you're an eye makeup aficionado or only just beginning to experiment with eye enhancement. Inspired by the brand's fan-favourite 'Pillow Talk' hue, the ultra-flattering nude shade has been crafted into an alluring eyeshadow palette. It stars four beautifully buttery, complementary shades to make all eye colours pop with a pearly pink, matte mauve, soft brown and shimmering rose gold.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "86",
+      "productUrl": "https://www.cultbeauty.com/p/hermes-rouge-hermes-silky-lipstick-3g-various-shades/15990627/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/hermes-rouge-hermes-silky-lipstick-3g-various-shades/15990627/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/15990629-1795219608154520.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/15990629-6195255679076284.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/15990629-1405219608334643.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p86_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p86_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p86_2.jpg"
+      ],
+      "brand": "Hermès Rouge",
+      "name": "Hermès Silky Lipstick 3g",
+      "price": "77.05€",
+      "description": "Drawing from the sumptuous lustre of Hermés silk, the esteemed French house dreams up the Rouge Hermés Silky lipstick. Enriched with a nourishing botanical blend of plumping raspberry leaf and softening sesame seed extract, this velvety formula veils your lips in a juicy kiss of colour. It's also crafted with a slim, bevel-shaped bullet to precisely colour and contour your pout.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "87",
+      "productUrl": "https://www.cultbeauty.com/p/sulwhasoo-gentle-cleansing-foam-200ml/17601244/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/sulwhasoo-gentle-cleansing-foam-200ml/17601244/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17601244-3955303616935286.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17601244-2115303617009365.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17601244-7685303616960762.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p87_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p87_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p87_2.jpg"
+      ],
+      "brand": "Sulwhasoo",
+      "name": "Gentle Cleansing Foam 200ml",
+      "price": "39.10€",
+      "description": "Say hello to the Sulwhasoo Gentle Cleansing Foam (200ml) transforms your daily cleanse into a moment of pure indulgence. Its dense, fine bubbles effortlessly lift away impurities, excess oil and makeup, leaving skin feeling fresh and purified without stripping moisture. Enriched with the brand's Hydra Capture Complex, it helps your skin retain vital hydration even after cleansing, so it feels soft, plump and comforted.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "88",
+      "productUrl": "https://www.cultbeauty.com/p/medicube-collagen-routine/17156022/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/medicube-collagen-routine/17156022/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17156022-2075258233778220.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17156022-2105258233812288.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/17156022-1385258233798125.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p88_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p88_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p88_2.jpg"
+      ],
+      "brand": "Medicube",
+      "name": "Collagen Routine",
+      "price": "86.25€",
+      "description": "The Medicube Collagen Routine offers a complete set of skincare essentials to promote a smooth, hydrated and luminous complexion. It includes the Triple Collagen Serum 4.0, a creamy formula with three types of collagen, hyaluronic acid and niacinamide that visibly firms, softens and enhances skin texture. The Collagen Jelly Cream is a translucent, glass-like moisturiser infused with nano collagen and squalane, providing intense hydration and refining uneven skin tone.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "89",
+      "productUrl": "https://www.cultbeauty.com/p/medicube-age-r-booster-pro-ex-pink/16858528/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/medicube-age-r-booster-pro-ex-pink/16858528/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/16858528-9685257950760482.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/16858528-1005257950802770.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/16858528-1305257950779502.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p89_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p89_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p89_2.jpg"
+      ],
+      "brand": "Medicube",
+      "name": "Age-R Booster Pro Ex Pink",
+      "price": "332.35€",
+      "description": "Elevate your skincare at home with the Medicube Age-R Booster Pro Ex in Pink, a device combining advanced tech like electroporation, microcurrent, EMS, LED and sonic vibration. Suitable for all skin types, it features four targeted modes that boost radiance, plump fine lines, contour and reduce enlarged pore sizes. These modes work together to improve skin tone, elasticity and texture. Regular use enhances serum absorption, visibly smooths and lifts and promotes a brighter, more youthful complexion.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "90",
+      "productUrl": "https://www.cultbeauty.com/p/biodance-bio-collagen-real-deep-mask-4-pack/16858568/",
+      "originalProductUrl": "https://www.cultbeauty.com/p/biodance-bio-collagen-real-deep-mask-4-pack/16858568/",
+      "originalImageUrls": [
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/16858568-6575256689238780.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/16858568-2655256689300286.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2",
+        "https://www.cultbeauty.com/images?url=https://static.thcdn.com/productimg/original/16858568-1535256689259909.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
+      ],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p90_0.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p90_1.jpg",
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p90_2.jpg"
+      ],
+      "brand": "Biodance",
+      "name": "Bio Collagen-Real Deep Mask (4 Pack)",
+      "price": "17.14€",
+      "description": "Discover intense hydration and visible skin renewal with the Biodance Bio Collagen-Real Deep Mask. Powered by ultra-low molecular collagen and oligo-hyaluronic acid, this hydrogel mask delivers moisture, works to tighten pores and improving elasticity. The probiotic-infused formula protects your skin’s barrier, helping to prevent premature aging while smoothing the look of fine lines and wrinkles. Perfect for long-lasting hydration, whether worn overnight or for a few hours, its innovative design ensures maximum absorption and adhesion.",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "demo-silk-midi-dress",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/silk%20midi%20dress.jpg"
+      ],
+      "brand": "Reformation",
+      "name": "Silk Midi Dress",
+      "price": "$248",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "demo-cashmere-sweater",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/cashmere%20sweater.jpg"
+      ],
+      "brand": "Brunello Cucinelli",
+      "name": "Cashmere Sweater",
+      "price": "$1,850",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "demo-leather-ankle-boots",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/leather%20ankle%20boots.jpg"
+      ],
+      "brand": "Totême",
+      "name": "Leather Ankle Boots",
+      "price": "$640",
+      "description": "",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "demo-gold-chain-necklace",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/gold%20necklace.jpg"
+      ],
+      "brand": "Cartier",
+      "name": "Gold Chain Necklace",
+      "price": "$2,100",
+      "description": "",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "demo-le-smoking-blazer",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20Blazer.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Le Smoking Blazer",
+      "price": "$1,890",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "demo-le-5-a-7-tote",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20bag.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Le 5 À 7 Tote",
+      "price": "$1,490",
+      "description": "",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "demo-vintage-blazer",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/mugler%20blazer.jpg"
+      ],
+      "brand": "Mugler",
+      "name": "Vintage Blazer",
+      "price": "$850",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "demo-editorial-dress",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/bottega%20venetta%20dress.jpg"
+      ],
+      "brand": "Bottega Veneta",
+      "name": "Editorial Midi Dress",
+      "price": "$2,400",
+      "description": "",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "demo-tribute-sandals",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20sandals.jpg"
+      ],
+      "brand": "Saint Laurent",
+      "name": "Tribute Sandals",
+      "price": "$695",
+      "description": "",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "demo-chanel-blazer",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/chanel%20blazer.jpg"
+      ],
+      "brand": "Chanel",
+      "name": "Paris FW Blazer",
+      "price": "$4,200",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "demo-air-max-90",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/89a9fe6304-6fe070425843fa2ba49b.png"
+      ],
+      "brand": "Nike",
+      "name": "Air Max 90 Essential",
+      "price": "$120",
+      "description": "",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ]
+    },
+    {
+      "id": "demo-leather-crossbody",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/cd629eaf60-b040609181ec837c6da6.png"
+      ],
+      "brand": "Coach",
+      "name": "Leather Crossbody Bag",
+      "price": "$295",
+      "description": "",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "demo-apple-watch",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/baa5c8ec71-a22d1ba23caf17941544.png"
+      ],
+      "brand": "Apple",
+      "name": "Apple Watch Series 9",
+      "price": "$399",
+      "description": "",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "demo-silver-necklace",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/f261f1931d-8483dedf427a6a44d753.png"
+      ],
+      "brand": "Tiffany & Co.",
+      "name": "Silver Chain Necklace",
+      "price": "$175",
+      "description": "",
+      "sizes": [
+        "One size"
+      ]
+    },
+    {
+      "id": "demo-floral-midi",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/ed54ed626a-c0cdcdbb57dc6381c4fd.png"
+      ],
+      "brand": "Reformation",
+      "name": "Floral Midi Dress",
+      "price": "$248",
+      "description": "",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "demo-silk-slip",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/1d822aec75-b3cb13c31948045b34c1.png"
+      ],
+      "brand": "Reformation",
+      "name": "Silk Slip Dress",
+      "price": "$248",
+      "description": "",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "demo-power-blazer",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Power%20blazer.jpg"
+      ],
+      "brand": "Theory",
+      "name": "Theory Power Blazer",
+      "price": "$450",
+      "description": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "demo-reformation-midi",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/reformation%20midi%20dress.jpg"
+      ],
+      "brand": "Reformation",
+      "name": "Reformation Midi Dress",
+      "price": "$248",
+      "description": "",
+      "sizes": [
+        "UK 6",
+        "UK 8",
+        "UK 10",
+        "UK 12",
+        "UK 14"
+      ]
+    },
+    {
+      "id": "demo-chain-necklace",
+      "productUrl": "#",
+      "originalProductUrl": "#",
+      "originalImageUrls": [],
+      "imageUrls": [
+        "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/chain%20necklace.jpg"
+      ],
+      "brand": "Mejuri",
+      "name": "Mejuri Chain Necklace",
+      "price": "$120",
+      "description": "",
+      "sizes": [
+        "One size"
+      ]
+    }
   ]
 }
