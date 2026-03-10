@@ -1246,18 +1246,18 @@
       "productUrl": "https://editorialist.com/p/jacquemus-the-salon-clutch-bag/?color=black-13",
       "originalProductUrl": "https://editorialist.com/p/jacquemus-the-salon-clutch-bag/?color=black-13",
       "originalImageUrls": [
-        "https://editorialist.com/thumbnails/600/2025/3/034/939/069/34939069~black_1741901531935_0.webp",
-        "https://editorialist.com/thumbnails/600/2025/3/034/939/069/34939069~black_1741901531935_3.webp",
-        "https://editorialist.com/thumbnails/600/2025/3/034/939/069/34939069~black_1741901531935_1.webp"
+        "https://www.jacquemus.com/dw/image/v2/BJFJ_PRD/on/demandware.static/-/Sites-master-jacquemus/default/dwd7e9f2be/25EBAW00413AC27L14990_17.jpg?q=100",
+        "https://www.jacquemus.com/dw/image/v2/BJFJ_PRD/on/demandware.static/-/Sites-master-jacquemus/default/dwe9837986/25EBAW00413AC27L14990_19.jpg?q=100",
+        "https://www.jacquemus.com/dw/image/v2/BJFJ_PRD/on/demandware.static/-/Sites-master-jacquemus/default/dw290abc2d/25EBAW00413AC27L14990_21.jpg?q=100"
       ],
       "imageUrls": [
         "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p50_0.webp",
         "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p50_1.webp",
         "https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/catalog/p50_2.webp"
       ],
-      "brand": "",
-      "name": "",
-      "price": "13\r\n$",
+      "brand": "JACQUEMUS",
+      "name": "Le Salon clutch",
+      "price": "$2,537",
       "description": "The Jacquemus Le Salon Clutch features a clasp fastening and a detachable shoulder strap. This handheld bag includes an internal patch pocket. Strap detachable shoulder strap Closure clasp fastening Pocket internal patch pocket",
       "sizes": [
         "One size"
@@ -1439,6 +1439,25 @@
         "EU 40",
         "EU 41"
       ]
-    }
+    },
+    {"id":"demo-silk-midi-dress","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/silk%20midi%20dress.jpg"],"brand":"Reformation","name":"Silk Midi Dress","price":"$248","description":"","sizes":["XS","S","M","L","XL"]},
+    {"id":"demo-cashmere-sweater","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/cashmere%20sweater.jpg"],"brand":"Brunello Cucinelli","name":"Cashmere Sweater","price":"$1,850","description":"","sizes":["XS","S","M","L","XL"]},
+    {"id":"demo-leather-ankle-boots","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/leather%20ankle%20boots.jpg"],"brand":"Totême","name":"Leather Ankle Boots","price":"$640","description":"","sizes":["EU 36","EU 37","EU 38","EU 39","EU 40","EU 41"]},
+    {"id":"demo-gold-chain-necklace","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/gold%20necklace.jpg"],"brand":"Cartier","name":"Gold Chain Necklace","price":"$2,100","description":"","sizes":["One size"]},
+    {"id":"demo-le-smoking-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20Blazer.jpg"],"brand":"Saint Laurent","name":"Le Smoking Blazer","price":"$1,890","description":"","sizes":["XS","S","M","L","XL"]},
+    {"id":"demo-le-5-a-7-tote","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20bag.jpg"],"brand":"Saint Laurent","name":"Le 5 À 7 Tote","price":"$1,490","description":"","sizes":["One size"]},
+    {"id":"demo-vintage-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/mugler%20blazer.jpg"],"brand":"Mugler","name":"Vintage Blazer","price":"$850","description":"","sizes":["XS","S","M","L","XL"]},
+    {"id":"demo-editorial-dress","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/bottega%20venetta%20dress.jpg"],"brand":"Bottega Veneta","name":"Editorial Midi Dress","price":"$2,400","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
+    {"id":"demo-tribute-sandals","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Saint%20Laurent%20sandals.jpg"],"brand":"Saint Laurent","name":"Tribute Sandals","price":"$695","description":"","sizes":["EU 36","EU 37","EU 38","EU 39","EU 40","EU 41"]},
+    {"id":"demo-chanel-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/chanel%20blazer.jpg"],"brand":"Chanel","name":"Paris FW Blazer","price":"$4,200","description":"","sizes":["XS","S","M","L","XL"]},
+    {"id":"demo-air-max-90","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/89a9fe6304-6fe070425843fa2ba49b.png"],"brand":"Nike","name":"Air Max 90 Essential","price":"$120","description":"","sizes":["EU 36","EU 37","EU 38","EU 39","EU 40","EU 41"]},
+    {"id":"demo-leather-crossbody","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/cd629eaf60-b040609181ec837c6da6.png"],"brand":"Coach","name":"Leather Crossbody Bag","price":"$295","description":"","sizes":["One size"]},
+    {"id":"demo-apple-watch","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/baa5c8ec71-a22d1ba23caf17941544.png"],"brand":"Apple","name":"Apple Watch Series 9","price":"$399","description":"","sizes":["One size"]},
+    {"id":"demo-silver-necklace","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/f261f1931d-8483dedf427a6a44d753.png"],"brand":"Tiffany & Co.","name":"Silver Chain Necklace","price":"$175","description":"","sizes":["One size"]},
+    {"id":"demo-floral-midi","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/ed54ed626a-c0cdcdbb57dc6381c4fd.png"],"brand":"Reformation","name":"Floral Midi Dress","price":"$248","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
+    {"id":"demo-silk-slip","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/1d822aec75-b3cb13c31948045b34c1.png"],"brand":"Reformation","name":"Silk Slip Dress","price":"$248","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
+    {"id":"demo-power-blazer","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/Power%20blazer.jpg"],"brand":"Theory","name":"Theory Power Blazer","price":"$450","description":"","sizes":["XS","S","M","L","XL"]},
+    {"id":"demo-reformation-midi","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/reformation%20midi%20dress.jpg"],"brand":"Reformation","name":"Reformation Midi Dress","price":"$248","description":"","sizes":["UK 6","UK 8","UK 10","UK 12","UK 14"]},
+    {"id":"demo-chain-necklace","productUrl":"#","originalProductUrl":"#","originalImageUrls":[],"imageUrls":["https://raw.githubusercontent.com/nora-todorova/GoShopMe-assets/main/assets/chain%20necklace.jpg"],"brand":"Mejuri","name":"Mejuri Chain Necklace","price":"$120","description":"","sizes":["One size"]}
   ]
 }
